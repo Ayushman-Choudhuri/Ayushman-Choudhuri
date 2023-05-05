@@ -3,7 +3,7 @@
 * I work in the field of robot perception at the [Construction Robotics Center](https://construction-robotics.de/en/) at RWTH Aachen 
 * I have a background in mechanical engineering and love working on computer vision and AI projects. 
 
-Have a look at my [website](www.ayushmanchoudhuri.com)!
+Have a look at my [website](ayushmanchoudhuri.com)!
 
 Skillsets: 
 
