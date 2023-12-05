@@ -1,7 +1,7 @@
 ### Hi there! I am Ayushman
 * I am currently a Master's student at [RWTH Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1) in Robotic Systems Engineering
-* I work in the field of robot perception at the [Construction Robotics Center](https://construction-robotics.de/en/) at RWTH Aachen 
-* I have a background in mechanical engineering and love working on computer vision and AI projects. 
+* I work in the field of computer vision at [Schmiede.one](https://schmiede.one/)  
+ 
 
 Have a look at my [website](https://www.ayushmanchoudhuri.com/)!
 
