@@ -6,10 +6,10 @@ Have a look at my [website](https://www.ayushmanchoudhuri.com/)!
 
 **Skillsets:**
 
-- **Languages:** Python , C++
-- **Frameworks and Libraries:** ROS, Pytorch, Numpy, Pandas, ONNX, Tensorflow lite, OpenCV, PCL
-- **Developer Tools:** Git, Docker, VS Code, Conda, CMake, Gazebo, RViz
-- **OS:** Linux, Windows
+- **Languages:** `Python` , `C++`
+- **Frameworks and Libraries:** `ROS`, `Pytorch`, `Numpy`, `Pandas`, `ONNX`, `Tensorflow`, `OpenCV`, `TensorRT` ,`PCL`
+- **Developer Tools:** `Git`, `Docker`, `VS Code`, `Conda`, `CMake`, `Gazebo`, `RViz`
+- **OS:** `Linux`
 
 
 
