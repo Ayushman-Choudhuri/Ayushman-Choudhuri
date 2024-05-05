@@ -8,7 +8,7 @@ Have a look at my [website](https://www.ayushmanchoudhuri.com/)!
 **Skillsets:**
 
 - **Languages:** `Python` , `C++`
-- **Frameworks and Libraries:** `ROS`, `Pytorch`, `Numpy`, `Pandas`, `ONNX`, `Tensorflow`, `OpenCV`, `TensorRT` ,`PCL`
+- **Frameworks and Libraries:** `ROS`, `Pytorch`, `Numpy`, `Pandas`, `ONNX`, `Tensorflow`, `OpenCV`, `TensorRT` ,`CUDA`
 - **Developer Tools:** `Git`, `Docker`, `VS Code`, `Conda`, `CMake`, `Gazebo`, `RViz`
 - **OS:** `Linux`
 
