@@ -1,17 +1,25 @@
-### Hi there! I am Ayushman
-* I am currently a Master's student at [RWTH Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1) in Robotic Systems Engineering
-* I work as a computer vision engineer at [Schmiede.one](https://schmiede.one/)
-* Currently I am also working on my master thesis on **Multimodal 3D Object Detection for Autonomous vehicles** and another voulantary project on **Domain Adaptation for LIDAR Object Detection** at [Institut für Kraftfahrzeuge - RWTH Aachen](https://ika.rwth-aachen.de/en/competences/fields-of-research/vehicle-intelligence-automated-driving.html)
- 
-Have a look at my [website](https://www.ayushmanchoudhuri.com/)!
+# 👋 Hi, I’m Ayushman  
 
-**Skillsets:**
+I am a **Robotics Engineer specializing in Computer Vision**, passionate about building intelligent systems that bridge perception and real-world action. Over the years, I’ve had the privilege of collaborating with engineers, researchers, and entrepreneurs to bring robotics solutions from concept to reality.  
 
-- **Languages:** `Python` , `C++`
-- **Frameworks and Libraries:** `ROS`, `Pytorch`, `Numpy`, `Pandas`, `ONNX`, `Tensorflow`, `OpenCV`, `TensorRT` ,`CUDA`
-- **Developer Tools:** `Git`, `Docker`, `VS Code`, `Conda`, `CMake`, `Gazebo`, `RViz`
-- **OS:** `Linux`
+Currently, I’m working at [Schmiede.one](https://schmiede.one/), where I actively work on advancing the use of robotics in agriculture.  
 
+🔗 Explore my other projects on my [website](https://www.ayushmanchoudhuri.com/).  
 
+---
 
+## 🚀 Core Skillset  
 
+- **Programming Languages:** `Python`, `C++`  
+- **Robotics & Middleware:** `ROS`, `Gazebo`, `RViz`, `CMake`  
+- **Computer Vision & AI:** `OpenCV`, `PyTorch`, `TensorFlow`, `TensorRT`, `ONNX`, `CUDA`  
+- **Data & ML Engineering:** `Numpy`, `Pandas`, `MLFlow`, `DVC`, `AWS Sagemaker`  
+- **DevOps & Tools:** `Git`, `Docker`, `VS Code`, `Conda`  
+- **Operating Systems:** `Linux`  
+
+---
+
+## 📬 Let’s Connect  
+- 🌐 [Website](https://www.ayushmanchoudhuri.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayushmanchoudhuri/)  
+- 📧 [Email Me](ayushc205de@gmail.com)  
