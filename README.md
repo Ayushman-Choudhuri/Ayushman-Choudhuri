@@ -10,7 +10,7 @@ Currently, I’m working at [Schmiede.one](https://schmiede.one/), where I activ
 
 ## 🚀 Core Skillset  
 - **Languages:** Python , C++
-- **Frameworks and Libraries:** ROS, Pytorch, Numpy, Pandas, ONNX, Tensorflow, OpenCV, TensorRT ,CUDA
+- **Frameworks and Libraries:** ROS, Pytorch, Numpy, Pandas, ONNX, Tensorflow, OpenCV, TensorRT, CUDA
 - **MLOps:** MLFlow , DVC, AWS Sagemaker
 - **Developer Tools:** Git, Docker, VS Code, Conda, CMake, Gazebo, RViz
 - **OS:** Linux  
